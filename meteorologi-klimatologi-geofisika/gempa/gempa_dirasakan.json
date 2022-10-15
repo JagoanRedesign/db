@@ -1,0 +1,260 @@
+[
+  {
+    "waktu": "14/10/2022 08:22:02 WIB",
+    "lintang": "3.81 LS",
+    "bujur": "103.75 BT",
+    "magnitudo": "4",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 18 km BaratDaya Muara Enim",
+    "warning": [
+      "III Muara Enim"
+    ]
+  },
+  {
+    "waktu": "14/10/2022 03:03:46 WIB",
+    "lintang": "4.88 LS",
+    "bujur": "122.43 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 4.8 km Tenggara Kab. Muna Barat",
+    "warning": [
+      "II - III Muna Barat"
+    ]
+  },
+  {
+    "waktu": "13/10/2022 12:45:29 WIB",
+    "lintang": "0.58 LS",
+    "bujur": "127.51 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km TimurLaut Labuha",
+    "warning": [
+      "II - III Labuha"
+    ]
+  },
+  {
+    "waktu": "13/10/2022 10:51:47 WIB",
+    "lintang": "8.55 LS",
+    "bujur": "116.07 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km BaratLaut Lombok Barat",
+    "warning": [
+      "III Mataram",
+      "II Lombok Tengah",
+      "III Lombok Barat"
+    ]
+  },
+  {
+    "waktu": "13/10/2022 08:55:52 WIB",
+    "lintang": "2.42 LU",
+    "bujur": "95.95 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 46 km barat daya Sinabang",
+    "warning": [
+      "II - III Kec. Simeulue Timur"
+    ]
+  },
+  {
+    "waktu": "13/10/2022 05:12:18 WIB",
+    "lintang": "4.11 LS",
+    "bujur": "138.98 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km Tenggara Wamena",
+    "warning": [
+      "III Wamena"
+    ]
+  },
+  {
+    "waktu": "12/10/2022 16:55:55 WIB",
+    "lintang": "2.07 LU",
+    "bujur": "98.97 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km TimurLaut Tapanuli Utara",
+    "warning": [
+      "III Tarutung",
+      "III Parmonangan",
+      "II Silangit"
+    ]
+  },
+  {
+    "waktu": "12/10/2022 15:50:04 WIB",
+    "lintang": "2.87 LS",
+    "bujur": "136.98 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "62 Km",
+    "wilayah": "Pusat gempa berada di darat 34 km Tenggara Waropen",
+    "warning": [
+      "III Waropen"
+    ]
+  },
+  {
+    "waktu": "11/10/2022 20:22:39 WIB",
+    "lintang": "2.57 LS",
+    "bujur": "140.28 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 14 km BaratLaut Kab. Jayapura",
+    "warning": [
+      "III Kab. Jayapura"
+    ]
+  },
+  {
+    "waktu": "11/10/2022 11:56:24 WIB",
+    "lintang": "1.42 LU",
+    "bujur": "118.85 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 26.5 km TimurLaut Biduk-Biduk",
+    "warning": [
+      "II Batuputih",
+      "II Biduk-Biduk"
+    ]
+  },
+  {
+    "waktu": "10/10/2022 20:30:28 WIB",
+    "lintang": "7.56 LS",
+    "bujur": "106.01 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 74 km barat daya Bayah",
+    "warning": [
+      "II Bayah"
+    ]
+  },
+  {
+    "waktu": "10/10/2022 19:42:52 WIB",
+    "lintang": "3.38 LU",
+    "bujur": "96.65 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "29 Km",
+    "wilayah": "Pusat gempa berada di laut 61 km baratdaya Blang Pidie-Aceh Baratdaya",
+    "warning": [
+      "II Aceh Selatan"
+    ]
+  },
+  {
+    "waktu": "10/10/2022 17:18:39 WIB",
+    "lintang": "1.94 LU",
+    "bujur": "97.93 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "28 Km",
+    "wilayah": "Pusat gempa berada di laut 46 km Tenggara Kab. Aceh Singkil",
+    "warning": [
+      "III - IV Pakpak Bharat",
+      "III - IV Aceh Singkil",
+      "II - III Gunung Sitoli"
+    ]
+  },
+  {
+    "waktu": "10/10/2022 15:25:32 WIB",
+    "lintang": "2.22 LS",
+    "bujur": "140.28 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 43 km barat laut Kab. Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
+    "waktu": "10/10/2022 12:27:49 WIB",
+    "lintang": "9.34 LS",
+    "bujur": "115.46 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "50 Km",
+    "wilayah": "Pusat gempa berada di laut 65 km tenggara Kuta Selatan",
+    "warning": [
+      "III Lombok Barat",
+      "II Lombok Tengah"
+    ]
+  },
+  {
+    "waktu": "09/10/2022 22:10:12 WIB",
+    "lintang": "2.31 LS",
+    "bujur": "140.79 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 35 km TimurLaut Kota Jayapura",
+    "warning": [
+      "III Kota Jayapura",
+      "II Keerom"
+    ]
+  },
+  {
+    "waktu": "09/10/2022 17:33:17 WIB",
+    "lintang": "2.98 LS",
+    "bujur": "130.56 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 16 km TimurLaut Bula- Seram Bagian Timur",
+    "warning": [
+      "II Bula"
+    ]
+  },
+  {
+    "waktu": "09/10/2022 17:02:44 WIB",
+    "lintang": "7.09 LS",
+    "bujur": "106.08 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di laut, 26 km Barat Daya Bayah",
+    "warning": [
+      "III-IV Kab. Sukabumi",
+      "III Bayah",
+      "III Sukabumi",
+      "III Sagaranten",
+      "III Cianjur",
+      "III Panggarangan",
+      "III Ciptagelar",
+      "III Malingping",
+      "III Cihara",
+      "III Cibeber",
+      "III Cilograng",
+      "II-III Citeko",
+      "II-III Cisarua",
+      "II Pangandaran",
+      "II Ciputat",
+      "II Parung Panjang",
+      "II Pandeglang",
+      "II Majasari",
+      "II Serang",
+      "II Sawarna",
+      "II Tamanjaya",
+      "II Ujung Kulon",
+      "II Merak",
+      "II Tangerang",
+      "II Jakarta",
+      "II Depok",
+      "I-II Kab. Bandung",
+      "I-II Bandung"
+    ]
+  },
+  {
+    "waktu": "09/10/2022 10:43:41 WIB",
+    "lintang": "8.32 LS",
+    "bujur": "109.02 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "33 Km",
+    "wilayah": "Pusat gempa berada di laut 66 km tenggara Cilacap",
+    "warning": [
+      "II Cilacap",
+      "II Kebumen",
+      "II Pangandaran"
+    ]
+  },
+  {
+    "waktu": "09/10/2022 02:57:40 WIB",
+    "lintang": "2.21 LS",
+    "bujur": "119.4 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km Baratdaya Mamuju Tengah",
+    "warning": [
+      "III Mamuju Tengah"
+    ]
+  }
+]
