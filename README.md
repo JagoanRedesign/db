@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/73922679?v=4" width="150" height="150" border="0" alt="PFFP">
 
-<br> Bisa Kalian Kembangin Lagi Yh!
+<br> Gunakan Dengan Bijak!
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-d6cc0f?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com)
 
