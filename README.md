@@ -8,7 +8,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-d6cc0f?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com) [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
   <a href="https://instagram.com/ramadhankukuh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://youtube.com/c/KukuhRamadhann"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /><br>
+  <a href="https://youtube.com/c/KukuhRamadhann"><img src="https://img.shields.io/badge/Youtube-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /><br>
     </a>
 
 <br />
