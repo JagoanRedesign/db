@@ -12,10 +12,9 @@
   <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://t.me/ramadhankukuh"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://youtube.com/c/KukuhRamadhann"><img src="https://img.shields.io/badge/YouTube-kukuh ramadhan yt-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/KukuhRamadhann" /><br>
-  <a name=ramadhankukuh&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/ramadhankukuh"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/c/KukuhRamadhann"><img src="https://img.shields.io/youtube/channel/subscribers/UCD_w05gKF5F_5BNPABShNyQ?style=social" /> <br>
-  <a href="https://komarev.com/ghpvc/?username=ramadhankukuh&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=ramadhankukuh&color=green&style=flat-square&label=Profile+View" /></a>
+  <a href="https://komarev.com/ghpvc/?username=ramadhankukuh&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=ramadhankukuh&color=green&style=flat-square&label=Profile+View"></a>
 
 <br />
 
