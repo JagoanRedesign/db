@@ -15,7 +15,7 @@
   <a name=ramadhankukuh&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/ramadhankukuh"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/c/KukuhRamadhann"><img src="https://img.shields.io/youtube/channel/subscribers/UCD_w05gKF5F_5BNPABShNyQ?style=social" /> <br>
-  <a href="https://komarev.com/ghpvc/?username=ramadhankukuh&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=ramadhankukuh&color=green&style=flat-square&label=Profile+View"></a>
+  <a href="https://komarev.com/ghpvc/?username=ramadhankukuh&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=ramadhankukuh&color=green&style=flat-square&label=Profile+View" /></a>
 
 <br />
 
