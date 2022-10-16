@@ -44,6 +44,8 @@
 </div><br />
 <br />
 
+## Request
+Untuk request atau report bug bisa chat saya disini [`Whatsapp`](https://wa.me/qr/CTUJFCYWZHI6N1) Atau [`Telegram`](https://t.me/ramadhankukuh)
 
 ## Source Data
 
