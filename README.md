@@ -34,3 +34,10 @@
 
 * Gempa [`BMKG`](https://www.bmkg.go.id)
 * Kurs [`BI`](https://www.bi.go.id)
+
+
+## Thanks To
+
+* [`BochilTeam`](https://github.com/BochilTeam)
+
+License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
