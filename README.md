@@ -10,11 +10,6 @@
 <a href="https://chat.whatsapp.com/KX1gNmG96RHC2oUlNy3Wdz"> <img src="https://img.shields.io/badge/whatsapp-Support_Group-blue?style=social&logo=whatsapp" alt="support" /></a>
 
 <br />
-</div><br />
-<br />
-
-
-## Feature
 
 |            Feature                 |                    Link                  |
 | :---------------------------------:| :---------------------------------------:|
@@ -44,6 +39,9 @@
 |       Truth                        | [`Klik`]()  |  
 |       Dare                         | [`Klik`]()  |  
 |       Asmaul Husna                 | [`Klik`]()  |  
+
+</div><br />
+<br />
 
 
 ## Source Data
