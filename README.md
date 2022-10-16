@@ -1,3 +1,5 @@
+## Feature
+
 |            Feature                 |                    Link                  |
 | :---------------------------------:| :---------------------------------------:|
 |       Info Gempa (Terkini)         | [`Klik`](https://raw.githubusercontent.com/ramadhankukuh/database/master/meteorologi-klimatologi-geofisika/gempa/gempa_terkini.json)  |
@@ -26,3 +28,9 @@
 |       Truth                        | [`Klik`]()  |  
 |       Dare                         | [`Klik`]()  |  
 |       Asmaul Husna                 | [`Klik`]()  |  
+
+
+## Source Data
+
+* Gempa [`BMKG`](https://www.bmkg.go.id)
+* Kurs [`BI`](https://www.bi.go.id)
