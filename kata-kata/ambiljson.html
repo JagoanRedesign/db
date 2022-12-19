@@ -11,7 +11,7 @@
 
    var people = [];
 
-   $.getJSON('https://github.com/JagoanRedesign/db/raw/master/kata-kata/Profil.json', function(data) {
+   $.getJSON('https://github.com/JagoanRedesign/db/raw/master/kata-kata/people.json', function(data) {
        $.each(data.person, function(i, f) {
           var tblRow = "<tr>" + "<td>" + f.firstName + "</td>" +
            "<td>" + f.lastName + "</td>" + "<td>" + f.job + "</td>" + "<td>" + f.roll + "</td>" + "</tr>"
