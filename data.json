@@ -19,4 +19,26 @@
     "progress": 65,
     "download_url": "https://bit.ly/link-download-ebook-2"
   }
+
+  {
+    "id": 3,
+    "judul": " Earth",
+    "penulis": "Ellen Renner",
+    "kategori": "Adventure",
+    "cover": "https://images.unsplash.com/photo-1618666012174-83b441c0bc76?auto=format&fit=crop&q=80&w=400",
+    "rating": 5.0,
+    "progress": 25,
+    "download_url": "https://bit.ly/link-download-ebook-1"
+  },
+
+  {
+    "id": 4,
+    "judul": "Under ",
+    "penulis": "Ellen Renner",
+    "kategori": "Adventure",
+    "cover": "https://images.unsplash.com/photo-1618666012174-83b441c0bc76?auto=format&fit=crop&q=80&w=400",
+    "rating": 5.0,
+    "progress": 25,
+    "download_url": "https://bit.ly/link-download-ebook-1"
+  },
 ]
