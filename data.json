@@ -18,25 +18,5 @@
     "rating": 4.8,
     "progress": 65,
     "download_url": "https://bit.ly/link-download-ebook-2"
-  },
-  {
-    "id": 3,
-    "judul": "The Boy Who Flew",
-    "penulis": "Fleur Hitchcock",
-    "kategori": "Mystery",
-    "cover": "https://images.unsplash.com/photo-1629196914168-3a2530c88db4?auto=format&fit=crop&q=80&w=400",
-    "rating": 5.0,
-    "progress": 0,
-    "download_url": "https://bit.ly/link-download-ebook-3"
-  },
-  {
-    "id": 4,
-    "judul": "Digital Fortress",
-    "penulis": "Dan Brown",
-    "kategori": "Thriller",
-    "cover": "https://images.unsplash.com/photo-1589998059171-988d887df646?auto=format&fit=crop&q=80&w=400",
-    "rating": 4.7,
-    "progress": 10,
-    "download_url": "https://bit.ly/link-download-ebook-4"
   }
 ]
