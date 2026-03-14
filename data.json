@@ -1,44 +1,32 @@
 [
-  {
-    "id": 1,
-    "judul": "Under Earth",
-    "penulis": "Ellen Renner",
-    "kategori": "Adventure",
-    "cover": "https://images.unsplash.com/photo-1618666012174-83b441c0bc76?auto=format&fit=crop&q=80&w=400",
-    "rating": 5.0,
-    "progress": 25,
-    "download_url": "https://bit.ly/link-download-ebook-1"
-  },
-  {
-    "id": 2,
-    "judul": "Never Die",
-    "penulis": "Rob J Hayes",
-    "kategori": "Fantasy",
-    "cover": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?auto=format&fit=crop&q=80&w=400",
-    "rating": 4.8,
-    "progress": 65,
-    "download_url": "https://bit.ly/link-download-ebook-2"
-  }
-
-  {
-    "id": 3,
-    "judul": " Earth",
-    "penulis": "Ellen Renner",
-    "kategori": "Adventure",
-    "cover": "https://images.unsplash.com/photo-1618666012174-83b441c0bc76?auto=format&fit=crop&q=80&w=400",
-    "rating": 5.0,
-    "progress": 25,
-    "download_url": "https://bit.ly/link-download-ebook-1"
-  },
-
-  {
-    "id": 4,
-    "judul": "Under ",
-    "penulis": "Ellen Renner",
-    "kategori": "Adventure",
-    "cover": "https://images.unsplash.com/photo-1618666012174-83b441c0bc76?auto=format&fit=crop&q=80&w=400",
-    "rating": 5.0,
-    "progress": 25,
-    "download_url": "https://bit.ly/link-download-ebook-1"
-  },
-]
+        {
+            id: 'dummy1',
+            judul: 'Atomic Habits',
+            penulis: 'James Clear',
+            kategori: 'Self Development',
+            cover: 'https://images-na.ssl-images-amazon.com/images/I/91bYsX41DVL.jpg',
+            download_url: '#',
+            sinopsis: 'Buku tentang perubahan kecil yang memberikan hasil luar biasa.',
+            progress: 0
+        },
+        {
+            id: 'dummy2',
+            judul: 'The Psychology of Money',
+            penulis: 'Morgan Housel',
+            kategori: 'Finance',
+            cover: 'https://images-na.ssl-images-amazon.com/images/I/81Dky+tD+pL.jpg',
+            download_url: '#',
+            sinopsis: 'Pelajaran abadi tentang kekayaan, keserakahan, dan kebahagiaan.',
+            progress: 0
+        },
+        {
+            id: 'dummy3',
+            judul: 'Deep kontol',
+            penulis: 'Cal Newport',
+            kategori: 'Productivity',
+            cover: 'https://images-na.ssl-images-amazon.com/images/I/81s6DUyQ9BL.jpg',
+            download_url: '#',
+            sinopsis: 'Cara meraih fokus penuh dalam dunia yang penuh gangguan.',
+            progress: 0
+        }
+    ];
