@@ -1,32 +1,65 @@
 [
-        {
-            id: 'dummy1',
-            judul: 'Atomic Habits',
-            penulis: 'James Clear',
-            kategori: 'Self Development',
-            cover: 'https://images-na.ssl-images-amazon.com/images/I/91bYsX41DVL.jpg',
-            download_url: '#',
-            sinopsis: 'Buku tentang perubahan kecil yang memberikan hasil luar biasa.',
-            progress: 0
-        },
-        {
-            id: 'dummy2',
-            judul: 'The Psychology of Money',
-            penulis: 'Morgan Housel',
-            kategori: 'Finance',
-            cover: 'https://images-na.ssl-images-amazon.com/images/I/81Dky+tD+pL.jpg',
-            download_url: '#',
-            sinopsis: 'Pelajaran abadi tentang kekayaan, keserakahan, dan kebahagiaan.',
-            progress: 0
-        },
-        {
-            id: 'dummy3',
-            judul: 'Deep kontol',
-            penulis: 'Cal Newport',
-            kategori: 'Productivity',
-            cover: 'https://images-na.ssl-images-amazon.com/images/I/81s6DUyQ9BL.jpg',
-            download_url: '#',
-            sinopsis: 'Cara meraih fokus penuh dalam dunia yang penuh gangguan.',
-            progress: 0
-        }
-    ]
+  {
+    "judul": "Atomic Habits",
+    "penulis": "James Clear",
+    "kategori": "Self Development",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/91bYsX41DVL.jpg",
+    "download_url": "https://example.com/download/atomic-habits.pdf",
+    "sinopsis": "Buku ini membahas bagaimana perubahan kecil yang konsisten dapat menghasilkan transformasi besar dalam hidup. James Clear menawarkan panduan praktis untuk membangun kebiasaan baik dan menghentikan kebiasaan buruk.",
+    "progress": 45
+  },
+  {
+    "judul": "The Psychology of Money",
+    "penulis": "Morgan Housel",
+    "kategori": "Finance",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/81Dky+tD+pL.jpg",
+    "download_url": "https://example.com/download/psychology-of-money.pdf",
+    "sinopsis": "Morgan Housel mengupas perilaku manusia terhadap uang melalui 19 cerita pendek yang membuka wawasan tentang kekayaan, keserakahan, dan kebahagiaan finansial.",
+    "progress": 0
+  },
+  {
+    "judul": "Deep Work",
+    "penulis": "Cal Newport",
+    "kategori": "Productivity",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/81s6DUyQ9BL.jpg",
+    "download_url": "https://example.com/download/deep-work.pdf",
+    "sinopsis": "Cal Newport menjelaskan pentingnya bekerja secara mendalam tanpa gangguan di era digital. Buku ini memberikan strategi untuk meningkatkan fokus dan menghasilkan karya berkualitas.",
+    "progress": 72
+  },
+  {
+    "judul": "Sapiens",
+    "penulis": "Yuval Noah Harari",
+    "kategori": "History",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/71uG3XU5PBL.jpg",
+    "download_url": "https://example.com/download/sapiens.pdf",
+    "sinopsis": "Sebuah perjalanan epik sejarah umat manusia dari zaman batu hingga revolusi teknologi, mengungkap bagaimana Homo sapiens mendominasi bumi.",
+    "progress": 20
+  },
+  {
+    "judul": "Homo Deus",
+    "penulis": "Yuval Noah Harari",
+    "kategori": "Future",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/81aB3F2gL+L.jpg",
+    "download_url": "https://example.com/download/homo-deus.pdf",
+    "sinopsis": "Harari meramalkan masa depan umat manusia di mana teknologi, data, dan bioteknologi mengubah makna kehidupan itu sendiri.",
+    "progress": 5
+  },
+  {
+    "judul": "The Lean Startup",
+    "penulis": "Eric Ries",
+    "kategori": "Business",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/81tYwPgR9tL.jpg",
+    "download_url": "https://example.com/download/lean-startup.pdf",
+    "sinopsis": "Metodologi bagi startup untuk mengembangkan produk dengan cepat dan efisien melalui siklus build-measure-learn.",
+    "progress": 0
+  },
+  {
+    "judul": "Thinking, Fast and Slow",
+    "penulis": "Daniel Kahneman",
+    "kategori": "Psychology",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/71pBk7kP9aL.jpg",
+    "download_url": "https://example.com/download/thinking-fast-slow.pdf",
+    "sinopsis": "Nobel Prize winner Daniel Kahneman mengungkap dua sistem yang menggerakkan cara berpikir kita: sistem cepat yang intuitif dan sistem lambat yang rasional.",
+    "progress": 0
+  }
+]
